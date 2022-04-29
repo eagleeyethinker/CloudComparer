@@ -1,0 +1,5 @@
+_data/cloudservices.yml:147:37: [warning] trailing spaces (trailing-spaces)
+_data/cloudservices.yml:362:18: [warning] trailing spaces (trailing-spaces)
+_data/cloudservices.yml:363:17: [warning] trailing spaces (trailing-spaces)
+_data/cloudservices.yml:364:18: [warning] trailing spaces (trailing-spaces)
+_data/cloudservices.yml:995:26: [warning] trailing spaces (trailing-spaces)
