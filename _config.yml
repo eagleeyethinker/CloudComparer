@@ -33,7 +33,7 @@ google_font:
   - url: "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700&subset=latin,vietnamese,latin-ext"
 # Build settings
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # plugins:
 #   - jekyll-feed
 
